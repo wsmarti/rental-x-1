@@ -16,4 +16,6 @@ git config --add http.proxy http://[user:senha]@urlempresa:porta
 
 - Commitar no github
 git push origin master
-oi
+
+- Update do repositório local com remoto
+ git pull origin master
