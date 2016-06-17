@@ -2,6 +2,6 @@ package com.rentalx.account;
 import lombok.Data;
 
 @Data
-public class Supplier {
+public class Supplier extends Company {
 
 }
