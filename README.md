@@ -1,9 +1,9 @@
 # rentalx
 
-- Inicializar o repositório local
+- Inicializar o repositÃ³rio local
 git init
 
-- Adicione o repositório remoto 
+- Adicione o repositÃ³rio remoto 
 git remote add origin [url do github]
 
 - Comitando localmente
@@ -16,3 +16,4 @@ git config --add http.proxy http://[user:senha]@urlempresa:porta
 
 - Commitar no github
 git push origin master
+oi
