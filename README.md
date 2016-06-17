@@ -1,9 +1,9 @@
 # rentalx
 
-- Inicializar o repositorio local
+- Inicializar o repositório local
 git init
 
-- Adicione o repositorio remoro 
+- Adicione o repositório remoto 
 git remote add origin [url do github]
 
 - Comitando localmente
@@ -12,6 +12,7 @@ git commit -m "comment"
 
 - Add proxy no git
 git config --add https.proxy https://[user:senha]@urlempresa:porta
+git config --add http.proxy http://[user:senha]@urlempresa:porta
 
 - Commitar no github
 git push origin master
